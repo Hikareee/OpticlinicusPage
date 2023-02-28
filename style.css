@@ -1,0 +1,25 @@
+
+header{
+    background-color: pink;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  nav ul li a {
+    color:black;
+    padding: 3rem;
+    text-decoration: none;
+  }
+
+img{
+ max-width: 25%;
+ max-height: 25%;
+ margin-left: auto;
+ margin-right: auto;
+}
